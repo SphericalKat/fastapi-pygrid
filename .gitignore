@@ -156,3 +156,4 @@ pip-selfcheck.json
 
 .idea
 main.py
+.vscode
