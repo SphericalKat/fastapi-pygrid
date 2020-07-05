@@ -155,4 +155,5 @@ pyvenv.cfg
 pip-selfcheck.json
 
 .idea
-main.py
+.vscode
+*test*
